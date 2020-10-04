@@ -1,6 +1,7 @@
 {
-"new": "1.0",
-"old": "1.0",
+"appname": "Song Story",
+"ver": "1.0",
+"pkg": "com.songstorymm",
 "mess": "OK",
 "link": "okok"
 }
